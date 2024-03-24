@@ -19,8 +19,8 @@
     --bs-white: #fff;
     --bs-gray: #6c757d;
     --bs-gray-dark: #343a40;
-    --bs-primary: #80cea0;
-    --bs-secondary: #266ed4;
+    --bs-primary: #04d7fc;
+    --bs-secondary: #0597f8;
     --bs-success: #198754;
     --bs-info: #0dcaf0;
     --bs-warning: #ffc107;
@@ -2916,13 +2916,13 @@ fieldset:disabled .btn {
 
 .btn-primary {
     color: #fff;
-    background-color: #1842b6;
+    background-color: #04d7fc;
     border-color: #1842b6
 }
 
 .btn-primary:hover {
     color: #fff;
-    background-color: #14389b;
+    background-color: #04d7fc;
     border-color: #133592
 }
 
@@ -2961,7 +2961,7 @@ fieldset:disabled .btn {
 
 .btn-secondary {
     color: #000;
-    background-color: #26d48c;
+    background-color: #049cf5;
     border-color: #26d48c
 }
 
@@ -8044,7 +8044,7 @@ fieldset:disabled .btn {
 }
 
 .bg-primary {
-    background-color: #80cea0 !important
+    background-color: #04d7fc !important
 }
 
 .bg-secondary {
